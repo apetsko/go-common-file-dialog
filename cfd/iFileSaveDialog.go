@@ -4,7 +4,7 @@ package cfd
 
 import (
 	"github.com/go-ole/go-ole"
-	"github.com/harry1453/go-common-file-dialog/util"
+	"github.com/apetsko/go-common-file-dialog/util"
 	"unsafe"
 )
 
